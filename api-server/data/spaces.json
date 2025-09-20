@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Kost Lengkong 88",
+      "imageUrl": "https://example.com/assets/space1.png",
+      "price": 700,
+      "city": "Jl.Lengkong Besar No.88A\nRegol",
+      "country": "Bandung",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "Kost Putri Jeconia",
+      "imageUrl": "https://example.com/assets/space2.png",
+      "price": 650,
+      "city": "Jl.Jetisharjo RT.27 RW06\nJetis",
+      "country": "Yogyakarta",
+      "rating": 5
+    }
+  ]
+  
